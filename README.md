@@ -1,4 +1,10 @@
 # hello-world
 My first repository
-https://www.markdownguide.org/cheat-sheet/
+
+Java:
+https://introcs.cs.princeton.edu/java/11cheatsheet/
+
+SQL:
+https://www.sqltutorial.org/sql-cheat-sheet/
+https://learnsql.com/blog/sql-basics-cheat-sheet/
 - Jasmine
